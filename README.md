@@ -27,7 +27,7 @@ Steps that tell you how to get project running.
  - The chord protocol is fully working along with the failure model for Bonus Part.
   
 ## Largest Problem Solved
-- number of nodes = 4000 and number of requests = 13
+- number of nodes = 8000 and number of requests = 4
 
 ## Built With
 * [Elixir](https://elixir-lang.org/)
