@@ -1,9 +1,4 @@
-# Project Title
-Distributed Operating System Principles Project 3
-
-## Group Members Info 
-1) DAKSH GAUTAM - 11055891
-2) SARTHAK CHAUHAN  - 71835321
+# Distributed Operating System Principles Project 3
 
 ## Compiling and Running
 
